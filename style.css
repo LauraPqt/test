@@ -1,0 +1,36 @@
+html{font-family: Roboto,sans-serif;}
+.Gmail
+{text-align: right;
+}
+.Connexion{
+	background-color: #346CF0;
+	color: white;
+}
+
+.logo{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-content: center;
+	margin: 200px, 50px 20px, 50px;
+}
+
+.Recherche{
+	display: flex;
+	justify-content: center;
+}
+
+.Google_Anglais{
+	display: flex;
+	justify-content: center;
+}
+
+footer
+{font-family: arial, regular;
+	position : absolute;
+	display: flex;
+	order: 5;
+	justify-content: space-around;
+	margin: 12px;
+  bottom : 12px;}
+
