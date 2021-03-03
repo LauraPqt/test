@@ -13,6 +13,7 @@ html{font-family: Roboto,sans-serif;}
 	justify-content: center;
 	align-content: center;
 	margin: 200px, 50px 20px, 50px;
+	padding-top: 150px
 }
 
 .Recherche{
@@ -25,12 +26,14 @@ html{font-family: Roboto,sans-serif;}
 	justify-content: center;
 }
 
-footer
+footer 
 {font-family: arial, regular;
 	position : absolute;
+	background: #efefef;
 	display: flex;
 	order: 5;
 	justify-content: space-around;
 	margin: 12px;
-  bottom : 12px;}
+  bottom : 12px;
+}
 
